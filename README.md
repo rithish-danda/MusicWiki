@@ -1,7 +1,5 @@
 # MusicFinder - Next-Gen Music Encyclopedia
 
-![MusicFinder Logo](https://via.placeholder.com/150x150.png?text=MusicFinder)
-
 MusicFinder is a modern web application that serves as a comprehensive music encyclopedia, providing beautifully presented music metadata with contextual storytelling and data visualization. The application leverages the MusicBrainz API to deliver detailed information about artists, albums, and songs.
 
 ## Features
@@ -19,12 +17,6 @@ MusicFinder is a modern web application that serves as a comprehensive music enc
 - Concert Mapping
 - Studio Gear DB
 - Genre Trees
-
-## Screenshots
-
-![Home Page](https://via.placeholder.com/800x450.png?text=Home+Page)
-![Artist Page](https://via.placeholder.com/800x450.png?text=Artist+Page)
-![Search Results](https://via.placeholder.com/800x450.png?text=Search+Results)
 
 ## Installation
 
